@@ -22,13 +22,13 @@ public class MainModule {
 
     @MainScope
     @Provides
-    MainPresenter providePresenter() {
-        return new MainPresenter();
+    MainPresenter providePresenter(MainView view, MainModel model) {
+        return new MainPresenter(view, model);
     }
 
     @MainScope
     @Provides
-    MainModel provideModel() {
-        return new MainModel();
+    MainModel provideModel(MainActivity mainActivity) {
+        return new MainModel(mainActivity);
     }
 }
