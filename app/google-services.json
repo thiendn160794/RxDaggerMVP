@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047389131804",
+    "firebase_url": "https://triz-6f4db.firebaseio.com",
+    "project_id": "triz-6f4db",
+    "storage_bucket": "triz-6f4db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047389131804:android:e2a7b9e9ab184177",
+        "android_client_info": {
+          "package_name": "com.thiendn.cleancodearchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047389131804-1ennjhff0vcssrgdliflksrf5g6lfoul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQXrGsOwYQpUPw__P68g9ACwH0U5kLiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

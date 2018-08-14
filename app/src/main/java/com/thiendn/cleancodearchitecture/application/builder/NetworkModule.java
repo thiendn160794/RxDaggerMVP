@@ -1,8 +1,7 @@
-package com.thiendn.cleancodearchitecture.application.builder.modules;
+package com.thiendn.cleancodearchitecture.application.builder;
 
 import android.content.Context;
 
-import com.thiendn.cleancodearchitecture.application.builder.AppScope;
 import com.thiendn.cleancodearchitecture.utils.rx.AppRxSchedulers;
 
 import java.io.File;

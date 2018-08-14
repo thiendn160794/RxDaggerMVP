@@ -1,8 +1,6 @@
-package com.thiendn.cleancodearchitecture.application.builder.modules;
+package com.thiendn.cleancodearchitecture.application.builder;
 
 import android.content.Context;
-
-import com.thiendn.cleancodearchitecture.application.builder.AppScope;
 
 import dagger.Module;
 import dagger.Provides;

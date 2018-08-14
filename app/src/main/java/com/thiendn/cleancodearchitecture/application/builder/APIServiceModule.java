@@ -1,9 +1,4 @@
-package com.thiendn.cleancodearchitecture.application.builder.modules;
-
-import com.thiendn.cleancodearchitecture.application.builder.APIService;
-import com.thiendn.cleancodearchitecture.application.builder.AppScope;
-
-import javax.inject.Singleton;
+package com.thiendn.cleancodearchitecture.application.builder;
 
 import dagger.Module;
 import dagger.Provides;

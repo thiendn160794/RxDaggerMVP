@@ -5,7 +5,7 @@ import android.app.Application;
 import com.squareup.leakcanary.LeakCanary;
 import com.thiendn.cleancodearchitecture.BuildConfig;
 import com.thiendn.cleancodearchitecture.application.builder.AppComponent;
-import com.thiendn.cleancodearchitecture.application.builder.modules.AppContextModule;
+import com.thiendn.cleancodearchitecture.application.builder.AppContextModule;
 import com.thiendn.cleancodearchitecture.application.builder.DaggerAppComponent;
 
 import timber.log.Timber;
